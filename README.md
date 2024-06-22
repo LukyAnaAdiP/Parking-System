@@ -77,7 +77,7 @@ ParkingSystem/
 |-- ParkingSystem.sln        # File solusi untuk proyek
 |-- Program.cs               # File utama yang mengandung logika console
 |-- Models                   # Folder yang berisi ParkingLot.cs
-    |-- ParkingLot.cs        # Kelas yang mengelola lot parkir
+    |-- ParkingLot.cs        # Kelas yang mengelola lot parkir dan kendaraan
 |-- obj/                     # Folder keluaran objek yang dihasilkan oleh .NET
 |-- bin/                     # Folder keluaran biner yang dihasilkan oleh .NET
 
